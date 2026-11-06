@@ -1,0 +1,8 @@
+pandas>=2.0
+numpy
+matplotlib
+seaborn
+scikit-learn
+xgboost>=2.0
+holidays
+jupyter
